@@ -1,0 +1,274 @@
+body{
+	background-image: url(../img/bg.jpg);
+	font-family: 'Archivo Black', sans-serif;
+}
+.container{
+	background-image: url(../img/full.jpg);
+	margin: 0 270px 0 270px;
+	width: 725px;
+	height: 2020px;
+}
+
+.middle{
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+.title{
+	float: right;
+	margin: 0;
+	padding: 0;
+}
+.right{
+	float: right;
+	width: 316px;
+	height: 2000px;
+}
+.free{
+	position: absolute;
+	color: white;
+	font-size: 50px;
+	margin: 70px 0 0 60px;
+	font-style: bold;
+}
+.style{
+	position: absolute;
+	color: white;
+	font-size: 50px;
+	margin: 104px 0 0 45px;
+	font-style: bold;
+}
+ul{
+	list-style: none;
+	margin: 0;
+}
+.menu{
+	font-size: 22px;
+	color: white;
+	margin: 0;
+
+}
+.ligne{
+	height: 3px;
+	width: 240px;
+	background-color: #FFF001;
+	margin-top: 30px;
+}
+.form{
+	font-size: 14px;
+	margin: 0;
+	background-color: #E6D800;
+	color: #EC155B;
+	width: 240px;
+	height: 423px;
+}
+
+.form2{
+	font-size: 14px;
+	background-color: #EC155B;
+	width: 224px;
+	height: 400px;
+	margin-left: 4px;
+	padding-left: 8px;
+	color: #EAF8F1;
+}
+.form span, .form3 span{
+	margin-left: 4px;
+}
+.form3{
+	font-size: 14px;
+	margin: 0;
+	background-color: #E6D800;
+	color: #EC155B;
+	width: 240px;
+	height: 173px;
+}
+.form4{
+	font-family: loma, sans-serif;
+	font-size: 13.4px;
+	color: #EAF8F1;
+	background-color: #EC155B;
+	width: 224px;
+	height: 150px;
+	margin-left: 4px;
+	padding-left: 8px;
+}
+b{
+	color: #E2D500;
+	font-size: 14px;
+	font-weight: 900;
+}
+
+.left{
+	float: left;
+	margin: 0;
+	width: 355px;
+	height: 2000px;
+	font-size: 22px;
+	color: white;
+	margin: 0;
+	padding-left: 25px;
+	padding-right: 20px;
+	
+}
+
+.lign2{
+	height: 3px;
+	width: 345px;
+	background-color: #FFF001;
+	margin-top: 30px;
+}
+.lign3{
+	height: 18px;
+	width: 345px;
+	background-color: #FFF001;
+	padding-left: 5px;
+	color: black;
+	font-size: 13px;
+}
+.text{
+	font-family: loma, sans-serif;
+	font-size: 13.4px;
+	color: #EAF8F1;
+	margin-top: 15px;
+	line-height: 20px;
+}
+.text2{
+	margin-top: 18px;
+	padding-left: 5px;
+	font-family: loma, sans-serif;
+	font-size: 10px;
+	color: #EAF8F1;
+	border-left: 4px solid #FFF001;
+}
+.text2 b{
+	color: #E2D500;
+	font-size: 10px;
+	font-weight: 900;
+}
+.text-bold{
+	color: #E2D500;
+	font-size: 14px;
+	font-weight: 900;
+}
+.text2 span b{
+	color: white;
+	font-size: 16px;
+	font-weight: 900;
+}
+.scate{
+	border: 2px solid #FCED00;
+	width: 80px;
+	height: 80px;
+	padding: 4px;
+	float: left;
+	margin: 3px 5px 0 0;
+}
+.scate2{
+	border: 2px solid #FCED00;
+	width: 80px;
+	height: 80px;
+	padding: 4px;
+	float: right;
+	margin: 3px 5px 0 0;
+}
+.bold{
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 14px;
+}
+i{
+	font-family: 'Pacifico', cursive;
+}
+.form5{
+	font-family: loma, sans-serif;
+	font-size: 13.4px;
+	color: #EAF8F1;
+	margin: 15px 0 0 30px;
+	padding: 8px 25px 8px 8px;
+	line-height: 20px;
+	width: 250px;
+	background-color: #222222;
+	text-align: justify;
+	border-top: 3px solid #FFF000;
+	border-bottom: 3px solid #FFF000;
+}
+.list{
+	font-family: loma, sans-serif;
+	font-size: 13.4px;
+	color: #EAF8F1;
+	margin-top: 15px;
+	line-height: 20px;
+}
+.ul-list{
+	font-family: loma, sans-serif;
+	font-size: 13.4px;
+	color: #EAF8F1;
+	margin-top: 15px;
+	line-height: 20px;
+	padding-left: 23px;
+}
+
+.t-menu{
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 14px;
+}
+.left-menu{
+	color: white;
+	width: 135px;
+}
+.menu-l{
+	margin-top: 20px;
+	font-family: loma, sans-serif;
+	font-size: 14px;
+	float: left;
+}
+.menu-l li{
+	padding: 8px 10px 8px 10px;
+	color: #727272;
+	background-color: #0F0F0F;
+	border: 1px solid #727272;
+	border-left: none;
+	border-right: none;
+	font-size: 13px;
+	width: 140px;
+}
+.menu-l ul{
+	margin-top: 10px;
+	padding: 0;
+}
+
+.menu-r{
+	margin-top: 20px;
+	font-family: loma, sans-serif;
+	font-size: 14px;
+	float: right;
+}
+.menu-r li{
+	padding: 8px 10px 8px 10px;
+	color: #727272;
+	background-color: #0F0F0F;
+	border: 1px solid #727272;
+	border-left: none;
+	border-right: none;
+	font-size: 13px;
+	width: 150px;
+}
+.menu-r ul{
+	margin-top: 10px;
+	padding: 0;
+}
+.footer{
+	color: white;
+	font-family: loma, sans-serif;
+	font-size: 13.4px;
+	color: #EAF8F1;	
+	height: 20px;
+	width: 725px;
+	margin-left: 30px;
+}
+.footer b{
+	color: white;
+}
+.img-footer{
+	margin-top: 481px;
+}
